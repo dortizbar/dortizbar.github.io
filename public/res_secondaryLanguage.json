@@ -1,0 +1,65 @@
+{
+  "basic_info": {
+    "description_header": "Hola a Todos!",
+    "description": "Mi nombre es Diego Ortiz, soy un estudiante de doctorado de la UCSC enfocado en sefuridad y privacidad de sistemas ciber-fisicos.",
+    "section_name": {
+      "about": "About me",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "experience": [
+    {
+      "company": "Babco Bilbao Vizcaya-Argentaria (BBVA) Colombia",
+      "title": "Software Technician",
+      "years": "11.2019 - 12.2020",
+      "mainTech": [
+        "JavaScript"
+      ],
+      "technologies": [
+        "REST API",
+        "Polymer",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap"
+        
+      ]
+    },
+    {
+      "company": "Ernest & Young - Bogota",
+      "title": "Consultant/RPA developer",
+      "years": "11.2018 - 05.2019",
+      "mainTech": [
+        "Java"
+      ],
+      "technologies": [
+        "Unreal Engine 4",
+        "Python"
+      ]
+    },
+    {
+      "company": "AseSoftware - Bogota",
+      "title": "Systems Analyst",
+      "years": "10.2018 - 11.2018",
+      "mainTech": [
+        "Java"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Spring"
+      ]
+    },
+    {
+      "company": "IDL- Bogota",
+      "title": "Software Developer",
+      "years": "11.2016 - 02.2017",
+      "mainTech": [
+        "C#"
+      ],
+      "technologies": [
+        "Unreal Engine 4",
+        "Python"
+      ]
+    }
+  ]
+}
